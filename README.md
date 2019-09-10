@@ -2,7 +2,7 @@
 
 清水俊之介 (Shunnosuke Shimizu)　/ 株式会社dott CTO
 
-GDG Fuksuhima, GDG Cloud Fuksuhima オーガナイザー。Googleに魂を売った修復士。
+GDG Fuksuhima, GDG Cloud Fuksuhima オーガナイザー。Googleに魂を売った絵画修復士。
 
 2008年イタリア・フィレンツェの[絵画修復学校](https://www.palazzospinelli.org/ita/default.asp)をアジア人として初めて首席として卒業。イタリア・トスカーナ州公認絵画修復技術士（絵画）。専門は絵画修復における化学。
 
