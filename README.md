@@ -25,17 +25,6 @@
 - GitHub: [donuzium](https://github.com/donuzium)
 - Facebook: [snsk.smz](https://www.facebook.com/snsk.smz)
 
-## Codelabs:
-
-- [NG ON FIRE!! ep.1](https://github.com/gdg-fukushima/ng-on-fire1)
-
-## Awards
-- Spajam 2017 本戦 - 審査員特別賞
-- Spajam 2017 予選 - 最優秀賞
-- 会津若松市オープンデータコンテスト 2017 優秀賞
-- 会津若松市オープンデータコンテスト 2016 最優秀賞
-- Spajam 2015 予選 - 最優秀賞
-
 ## Recent Works - Design, Video & Music
 
 ### Design
@@ -61,3 +50,10 @@
 - [Get Wild Tokyo 87-17 Remix (Video & Music w/ Suidobashi Desura)](https://www.youtube.com/watch?v=2uiZYSGQH6k)
 - [State of the Map 2017 Promo (Video & Music)](https://www.youtube.com/watch?v=XB76k4yhmvo)
 - [RE:BOOT BAKAVIRUS in Spajam 2017 (Video & Music w/ Ryokei Nakazono)](https://www.youtube.com/watch?v=hsM4uNAOvwE)
+
+## Awards
+- Spajam 2017 本戦 - 審査員特別賞
+- Spajam 2017 予選 - 最優秀賞
+- 会津若松市オープンデータコンテスト 2017 優秀賞
+- 会津若松市オープンデータコンテスト 2016 最優秀賞
+- Spajam 2015 予選 - 最優秀賞
